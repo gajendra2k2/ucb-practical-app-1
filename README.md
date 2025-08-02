@@ -65,10 +65,3 @@ The goal of this project is to uncover behavioral and contextual patterns that i
 
 Coupon acceptance appears to be influenced more by **situational context** (like destination, time of day, and expiration) than just demographic variables. Businesses can improve campaign success by tailoring offers to **time-flexible individuals**, especially in the **afternoon**, and by promoting low-cost food coupons with longer validity.
 
----
-
-## Files Included
-- `coupon_analysis.ipynb`: Notebook with data exploration and visualization
-- `data.csv`: Cleaned dataset used in analysis
-- `README.md`: This nontechnical summary report
-
