@@ -13,7 +13,7 @@ You can view the full analysis in the Jupyter Notebook here:
 
 ## Files Included
 - `assignment5_1_starter_prompt.ipynb`: Notebook with data exploration and visualization
-- `data/coupuns.csv`: Dataset used in analysis
+- `data/coupons.csv`: Dataset used in analysis
 - `README.md`: This nontechnical summary report
 
 ---
